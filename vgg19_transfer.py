@@ -5,6 +5,10 @@
 
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 
+Credits:
+Borrowed from Keras' repo
+https://github.com/fchollet/keras/blob/master/keras/applications/vgg19.py
+
 '''
 from __future__ import print_function
 
